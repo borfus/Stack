@@ -1,4 +1,4 @@
-public class ArrayStack<T>
+public class StackArray<T>
 {
     T[] stackArray;
     int N;

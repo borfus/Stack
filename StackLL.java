@@ -1,4 +1,4 @@
-public class Stack<T>
+public class StackLL<T>
 {
     private Node first = null;
 
