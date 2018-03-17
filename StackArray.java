@@ -3,7 +3,7 @@ public class StackArray<T>
     T[] stackArray;
     int N;
 
-    public ArrayStack()
+    public StackArray()
     {
         // Java does not allow for generic array creation so a cast of an Object array is needed.
         stackArray = new (T) Object[1];
